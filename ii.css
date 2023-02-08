@@ -1,0 +1,11 @@
+header {
+    background-color: yellow;
+}
+nav {
+    color: blue;
+}
+a {
+    column-span: none;
+    color: red;
+    size-adjust: 20px;
+}
